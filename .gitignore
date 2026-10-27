@@ -1,0 +1,17 @@
+﻿# Secrets and API credentials
+.env
+**/.env
+
+# Python virtual environments
+.venv/
+**/.venv/
+
+# Python cache files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
