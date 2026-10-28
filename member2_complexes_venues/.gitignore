@@ -1,0 +1,14 @@
+# API credentials
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
