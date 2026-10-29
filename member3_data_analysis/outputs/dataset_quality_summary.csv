@@ -1,0 +1,5 @@
+dataset,rows,columns,missing_value_cells,primary_id_column,primary_id_missing,primary_id_unique_values,primary_id_duplicate_rows_after_first,duplicate_entire_rows
+competitions,6717,6,623,competition_id,0,6717,0,0
+categories,18,2,0,category_id,0,18,0,0
+complexes,787,2,0,complex_id,0,787,0,0
+venues,4159,7,0,venue_id,0,4159,0,0

@@ -1,0 +1,624 @@
+complex_id,complex_name,venue_count
+sr:complex:33222,Buenos Aires Lawn Tennis Club,29
+sr:complex:33196,Melbourne Park,28
+sr:complex:88916,Queensland Tennis Centre,25
+sr:complex:69965,Hurd Tennis Center,24
+sr:complex:64265,AELTC Wimbledon Qualifying and Community Sports Centre,23
+sr:complex:54105,Foro Italico,23
+sr:complex:35290,Club Tennis Las Terrazas de Miraflores,22
+sr:complex:44518,Qi Zhong Tennis Center,21
+sr:complex:61645,Megasaray Tennis Academy,21
+sr:complex:38419,Indian Wells Tennis Garden,21
+sr:complex:33192,Stade Roland Garros,20
+sr:complex:33190,All England Lawn Tennis and Croquet Club,19
+sr:complex:79391,Omega Sport Center,19
+sr:complex:62419,Club Manquehue de Vitacura,19
+sr:complex:60416,National Tennis Center,19
+sr:complex:61643,Clube Hipico Santo Amaro,18
+sr:complex:33348,Nottingham Tennis Centre,18
+sr:complex:35052,Santo Domingo Tennis Club La Bocha,18
+sr:complex:65997,Sport Social Club,17
+sr:complex:33296,Jockey Club Brasileiro,17
+sr:complex:38692,Hot Springs Tennis Center,17
+sr:complex:39383,Club Internacional de Foot-ball,17
+sr:complex:33808,USTA Billie Jean King National Tennis Center,17
+sr:complex:62907,Circolo Tennis Hugo Simmen,17
+sr:complex:36493,Manuka Doctor Arena,16
+sr:complex:33286,Tennis Club Sparta Praha,16
+sr:complex:33268,Lindner Family Tennis Center,16
+sr:complex:33246,Victoria Park Tennis Court,16
+sr:complex:33214,Club Jacaranda Cumbaya,15
+sr:complex:33240,Optics Valley International Tennis Center,15
+sr:complex:33266,Sobeys Stadium,15
+sr:complex:77763,Complexo De Tenis Do Jamor,15
+sr:complex:38712,National Tennis Center,15
+sr:complex:44124,Cary Leeds Center for Tennis & Learning,15
+sr:complex:33482,Sporting Club de Tenis Valencia,15
+sr:complex:63407,Villa Primrose,15
+sr:complex:62823,Salinas Golf & Tennis Club,15
+sr:complex:70345,Club Tennis Girona,15
+sr:complex:39870,Ilkley Lawn Tennis and Squash Club,14
+sr:complex:38680,Centro Panamericano de Tenis,14
+sr:complex:46526,National Tennis Center,14
+sr:complex:62319,Multisport Sports Club,14
+sr:complex:33436,Madrid Arena,14
+sr:complex:47146,Solano Community College,14
+sr:complex:60196,Real Club de Tenis Betis,14
+sr:complex:81661,Wake Forest Tennis Center,14
+sr:complex:69121,Clube Cristovao Colombo,14
+sr:complex:44640,Eurosporting Cordenons,14
+sr:complex:60540,Barnes Tennis Center,14
+sr:complex:26985,National Tennis Center,14
+sr:complex:33218,Hengqin International Tennis Center Zhuhai,14
+sr:complex:65205,Hilary J. Boone Tennis Center,13
+sr:complex:65347,Jockey Club del Peru,13
+sr:complex:63427,National Tennis Center,13
+sr:complex:33446,Country Time Club,13
+sr:complex:59868,XS Tennis Village,13
+sr:complex:38678,Hard Rock Stadium,13
+sr:complex:33418,Mallorca Country Club Santa Ponsa,13
+sr:complex:62905,Payne Park Tennis Facility,13
+sr:complex:63059,TTF Istanbul Tenis Merkezi,13
+sr:complex:39852,Club de Campo Villa de Madrid,12
+sr:complex:62595,Club Campestre de Pereira,12
+sr:complex:33320,St Jakobshalle Basel,12
+sr:complex:33282,Devonshire Park Lawn Tennis Centre,12
+sr:complex:83404,Bali Country Club,12
+sr:complex:78093,Sports Center Salata,12
+sr:complex:33244,Olympic Park Tennis Center,12
+sr:complex:33290,Khalifa International Tennis & Squash Complex,12
+sr:complex:63247,Tennis Club Garden,12
+sr:complex:65975,SEB Arena,12
+sr:complex:65717,A.S.D. Tennis Club Como,12
+sr:complex:81543,Headington Family Tennis Center,12
+sr:complex:82257,Hume Tennis & Community Centre,12
+sr:complex:33274,Tennis Club de Strasbourg,11
+sr:complex:69971,Westwood Country Club,11
+sr:complex:65981,Taipei Tennis Center,11
+sr:complex:33338,Am Rothenbaum,11
+sr:complex:74017,Ty Tucker Tennis Center,11
+sr:complex:33210,International Tennis Hall of Fame,11
+sr:complex:33372,Real Club de Tenis Barcelona,11
+sr:complex:33292,Club Sonoma,11
+sr:complex:62617,Padiglione Conza,11
+sr:complex:34816,Eve Zimmermann Tennis Center,11
+sr:complex:44126,National Sport Center Nanchang,11
+sr:complex:33258,Connecticut Tennis Center,11
+sr:complex:38603,Shenzhen International Tennis Center,11
+sr:complex:38704,River Oaks Country Club,11
+sr:complex:34814,Sociedade Hipica de Campinas,11
+sr:complex:39866,AAJB Tennis,11
+sr:complex:61761,Seoul Olympic Park Tennis Center,11
+sr:complex:66785,Spo1 Park,10
+sr:complex:65719,Rafa Nadal Academy,10
+sr:complex:66187,Skanes Family Hotel Monastir,10
+sr:complex:77615,Tênis Clube de Santos,10
+sr:complex:32327,Taipei Arena,10
+sr:complex:79633,Gezira Sporting Club,10
+sr:complex:79103,Sid And Hazel Dillon Tennis Center,10
+sr:complex:77595,Wuxi International Tennis Center,10
+sr:complex:72533,Complejo Deportivo Pedro Muñoz,10
+sr:complex:73797,Guangzhou Nansha International Tennis Center,10
+sr:complex:65597,Tennis St-Luc - Les Loisirs De Granby,10
+sr:complex:63933,Owl Arena,10
+sr:complex:33248,Tianjin Tuanbo International Tennis Center,10
+sr:complex:33276,Edgbaston Priory Club,10
+sr:complex:67459,Ehime Prefectural Sports Complex,10
+sr:complex:33426,Tennis Center Novak,10
+sr:complex:63033,Club Campestre de Aguacalientes A.C.C.,10
+sr:complex:63649,TC RW-Troisdorf e.V,10
+sr:complex:62323,Circolo Della Stampa Sporting,10
+sr:complex:34736,Tiburon Peninsula Club,10
+sr:complex:33392,Sichuan International Tennis Center,10
+sr:complex:33374,Hiroshima Regional Park,10
+sr:complex:49319,Stan Sheriff Center,10
+sr:complex:38716,Clube de Tenis do Estoril,10
+sr:complex:39377,Jinwol International Tennis Court,10
+sr:complex:35236,"Ningbo Tennis Center of WTA Ningbo, China w42",10
+sr:complex:35692,Atkins Tennis Center,10
+sr:complex:67855,Yokkaichi Tennis Center,9
+sr:complex:64883,C.D. Open Tenis Ciudad de Pozoblanco,9
+sr:complex:35214,Osten & Victor Alberta Tennis Centre,9
+sr:complex:36785,Burnie Tennis Club,9
+sr:complex:70335,Club Tennis Els Gorchs,9
+sr:complex:73807,Country Club Las Palmas,9
+sr:complex:44128,Center Plains Tennis Center,9
+sr:complex:38421,"Mamushidani Tennis Courts, Keio University",9
+sr:complex:65437,Akademia Tenisowa Tenis Kozerki,9
+sr:complex:35512,Boars Head Resort,9
+sr:complex:33342,Kitzbuhel Tennis Club Sportfeld 2,9
+sr:complex:64379,Tennis Club de Troyes,9
+sr:complex:39503,Fitzerald Tennis Center Rock Creek Park,9
+sr:complex:39511,TC Rüppurr,9
+sr:complex:26983,Club de Tenis Puente Romano,9
+sr:complex:65103,Winnipeg Lawn Tennis Club,9
+sr:complex:59292,Cary Tennis Park,9
+sr:complex:28457,Valletta Cambiaso,9
+sr:complex:51757,Club de Tenis Santa Cruz,9
+sr:complex:59008,Braunschweiger Tennis und Hockeyclub,9
+sr:complex:33368,MTTC Iphitos e.V.,9
+sr:complex:33366,BNR arena,9
+sr:complex:60276,Wojska Polskiego,9
+sr:complex:61026,Abama Tennis Academy,9
+sr:complex:60640,Tennis Club Napoli,9
+sr:complex:60418,Clube de Tenis de Braga,9
+sr:complex:72677,Corredor Turistico SJC-CSL,9
+sr:complex:33238,Ariake Coliseum & Ariake Tennis Forest Park,9
+sr:complex:81451,The Tennis Club at Newport Beach,9
+sr:complex:59994,Legia Tenis & Golf,9
+sr:complex:62903,Monte-Carlo Country Club,9
+sr:complex:63321,Country Club Aixois,9
+sr:complex:79459,Clube de Tenis do Porto,9
+sr:complex:84129,Jingshan Tennis Training Base,8
+sr:complex:38690,TK Sparta Praha,8
+sr:complex:39515,Stade Iga,8
+sr:complex:74732,Graciosa Country Club,8
+sr:complex:74183,Club Compensar Sede 220,8
+sr:complex:74586,Tennis Club Terranova,8
+sr:complex:73463,Academy Zhangjiagang,8
+sr:complex:65435,Hollyburn Country Club,8
+sr:complex:63937,CTC Corrientes Tennis Club,8
+sr:complex:39167,Tali Tennis Center,8
+sr:complex:65739,Stade Toulousain Tennis Club,8
+sr:complex:39095,Club Deportivo Potosino,8
+sr:complex:38313,Dubai Duty Free Tennis Stadium,8
+sr:complex:61551,Iate Club de Brasilia,8
+sr:complex:61553,Public Security Officers Club,8
+sr:complex:63309,Parc ded Sports de Marville,8
+sr:complex:86594,Novaworld International Tennis Complex,8
+sr:complex:77425,Arena GNP Seguros,8
+sr:complex:33390,Tennis Club de Lyon,8
+sr:complex:59096,Tennis Club Todi 1971,8
+sr:complex:59544,Liberec Tennis Club,8
+sr:complex:59332,Tennis Club Triestino,8
+sr:complex:59214,ATP Stadion Goran Ivanisevic,8
+sr:complex:82659,Arena Chisinau Tennis Club,8
+sr:complex:33228,Delray Beach Tennis Center,8
+sr:complex:69645,Complexe Jean Jaures,8
+sr:complex:69799,Yucatan Country Club,8
+sr:complex:68959,Club Nautico Hacoaj,8
+sr:complex:62811,Centro Deportivo Chapultepec,8
+sr:complex:33410,Yang-Ming Tennis Centre,8
+sr:complex:73191,Parque Distrital de Raquetas,8
+sr:complex:81977,Green Tennis Plaza,8
+sr:complex:39591,Tennis Palladio 98,8
+sr:complex:39872,NTC Arena,8
+sr:complex:63835,USTA National Campus,8
+sr:complex:63249,Franklin Creek Tennis Center,8
+sr:complex:35684,Miki Disaster Management Park,8
+sr:complex:84395,Maaspoort Den Bosch,8
+sr:complex:75200,Jurerê Sports Center,8
+sr:complex:79837,Club Campestre Farallones,8
+sr:complex:78753,Sporting Club Verona,8
+sr:complex:63055,Teniski Klub Split,8
+sr:complex:63057,Forestmeadows Tennis Center,8
+sr:complex:63409,Club de Tenis Coquimbo,8
+sr:complex:6310,Varazdin Arena,8
+sr:complex:33254,Utsubo Tennis Center,8
+sr:complex:39864,Istiklol Tennis Club,8
+sr:complex:39000,El Club el Carmel,8
+sr:complex:83649,Teniski Klub Crvena Zvezda,8
+sr:complex:18221,Bluesun Tennis Center,8
+sr:complex:33188,Caja Magica,8
+sr:complex:60274,Club Rancho San Francisco,8
+sr:complex:60194,"Tennis Club ""Tennispark""",8
+sr:complex:61565,Parque Parota,8
+sr:complex:61641,Circolo Tennis Villa Carpena,7
+sr:complex:84445,Duckworth Family Tennis Facility,7
+sr:complex:36497,Ohio State Varsity Tennis Center,7
+sr:complex:35694,Rice Stadium (Brian Patterson Sports Performance Center),7
+sr:complex:35870,Mhalunge Balewadi Tennis Complex,7
+sr:complex:75721,Hangzhou Olympic Sports Centre Gymnasium,7
+sr:complex:76107,Guangzhou Development District International Tennis School,7
+sr:complex:62321,Tennis Academy El Cortijo Club De Campo,7
+sr:complex:34812,Almaty Tennis Center,7
+sr:complex:33356,Tennis Club de Geneve,7
+sr:complex:63833,TK Slovan Bratislava,7
+sr:complex:62401,The Lawn Tennis Association of Thailand,7
+sr:complex:61707,Arena Loire Trelaze,7
+sr:complex:59774,LTV 1899,7
+sr:complex:60192,Sporting Club De Cassis,7
+sr:complex:12241,Palais des sports de Gerland,7
+sr:complex:15014,Palais Des Sport,7
+sr:complex:59090,Amersfoort Lawn Tennis Club,7
+sr:complex:27093,Canberra Tennis Centre,7
+sr:complex:83248,ATP Stadium Goran Ivanisevic,7
+sr:complex:33280,Tennis Club 1.FCN,7
+sr:complex:81673,Palmira Tennis Club,7
+sr:complex:83254,Eemslag Tennis and Padel Bunschoten,7
+sr:complex:5526,Ostravar Arena,7
+sr:complex:44520,Olympic Tennis Courts,7
+sr:complex:58874,Complexo Tenis Monte Aventino,7
+sr:complex:56888,Zayed Sports City International Tennis Centre,7
+sr:complex:59082,Ciric Sport Base,7
+sr:complex:59004,TC GM Sports Anif,7
+sr:complex:16020,Salle Steredenn,7
+sr:complex:71431,Club de Tennis La Bisbal Centre Esportiu,7
+sr:complex:39097,Au Tennis Club De Tunis,7
+sr:complex:7048,Palacio de Deportes Jose Maria Martin Carpena,7
+sr:complex:33242,Guangzhou Tianhe Sports Center,7
+sr:complex:39381,Tennisclub Heilbronn am Trappensee,7
+sr:complex:83655,Skip and Cindy Hogan Tennis Center,7
+sr:complex:40110,Aspria Harbor Club,7
+sr:complex:84069,ETUF Essen,7
+sr:complex:73329,TC Augsburg Siebentischwald E.V,7
+sr:complex:66565,Tennis Club Saint Tropez,7
+sr:complex:46550,Palais des Sports,7
+sr:complex:35292,Liuzhou Tennis Center,7
+sr:complex:65105,Tennisclub Zug,7
+sr:complex:88816,Yarbrough Tennis Center,6
+sr:complex:86560,Levy Tennis Pavilion,6
+sr:complex:64885,Tampereen Tenniskeskus Oy,6
+sr:complex:88970,Centre de Tennis Synex Assurance - Universite Laval,6
+sr:complex:83915,Reis Tennis Center (Cornell),6
+sr:complex:84237,Chiappetta Sport Village,6
+sr:complex:37007,Salle Collete-Benson,6
+sr:complex:38041,Launceston Regional Tennis Centre,6
+sr:complex:36783,Newport Beach Tennis Club,6
+sr:complex:39513,San Jose State University Tennis Center,6
+sr:complex:84239,Green Golf and Tennis Club,6
+sr:complex:86430,Eck Tennis Facility,6
+sr:complex:86252,K-Town Resort,6
+sr:complex:86946,Lake Las Vegas Sports Club,6
+sr:complex:6890,Palais des Sports Orleans,6
+sr:complex:87900,Owl's Nest Resort,6
+sr:complex:87584,Wuning International Tennis Center,6
+sr:complex:38189,Estadio Mario Alberto Kempes,6
+sr:complex:47815,Playford City Tennis Centre,6
+sr:complex:47819,Guayaquil Tennis Club,6
+sr:complex:47893,Palalido Allianz Cloud,6
+sr:complex:49633,Bendigo Tennis Centre,6
+sr:complex:50605,Club Deportivo Universidad Catolica,6
+sr:complex:49635,Complexe Tennistique Marie-Louise Lhuillier,6
+sr:complex:33350,Bastad Tennis Stadium,6
+sr:complex:65849,Circolo Tennis Bari,6
+sr:complex:73997,Autoclub Antofagasta,6
+sr:complex:74173,National Tennis Center (Beeline Arena),6
+sr:complex:74734,Ciudad Deportiva de Tampico,6
+sr:complex:83653,Halton-Wagner Tennis Complex,6
+sr:complex:83737,Queens Park,6
+sr:complex:35646,Goodfriend Indoor Tennis Center,6
+sr:complex:35516,Anexo Guayaquil Tennis Club,6
+sr:complex:38722,Tennis Club Weissenhof,6
+sr:complex:38043,True Arena Hua Hin,6
+sr:complex:84235,Sungent International Tennis Center,6
+sr:complex:81613,Royal SC Tennis,6
+sr:complex:83270,Michael and Anne Greenwood Tennis Center,6
+sr:complex:28617,Porsche Arena,6
+sr:complex:81551,Rick Macci Tennis Center,6
+sr:complex:83308,Churchie Grammar,6
+sr:complex:83522,Burrows-Burleson Tennis Center,6
+sr:complex:52275,TK As Timok,6
+sr:complex:83384,Jim and Nell Hawkins Indoor Tennis Center,6
+sr:complex:33278,Royal Tennis Club de Marrakech,6
+sr:complex:81713,Penina Hotel & Golf Resort,6
+sr:complex:83212,Nudgee Grammar,6
+sr:complex:44522,Olympic Tennis School,6
+sr:complex:83607,Dan Magill Tennis Complex,6
+sr:complex:58652,Rebsamen Tennis Center,6
+sr:complex:81779,KPI Park,6
+sr:complex:82007,Sport Center Visnjik (Clay),6
+sr:complex:82131,Club de Golf Tres Marias,6
+sr:complex:82723,TC Empire Trnava,6
+sr:complex:59754,Associazione Tennis Verona,6
+sr:complex:33200,Wake Forest University Tennis Complex,6
+sr:complex:73179,National Bank Tennis Hub @ West St Paul,6
+sr:complex:73167,Stanford Taube Tennis Center,6
+sr:complex:82709,Goodfriend Tennis Center,6
+sr:complex:70271,Utilita Arena Birmingham,6
+sr:complex:81553,David X Marks Tennis Stadium,6
+sr:complex:82695,Signature Slam Academy,6
+sr:complex:82415,George P Mitchell 40 Tennis Center,6
+sr:complex:82667,University of Alabama Tennis Stadium,6
+sr:complex:57950,Istanbul Tennis Center,6
+sr:complex:33364,Autotron Rosmalen,6
+sr:complex:62147,Styslinger Altec Tennis Complex,6
+sr:complex:62619,Tennis Club Saint-Brieuc,6
+sr:complex:33440,Rama Gardens Hotel,6
+sr:complex:33408,Shenzhen Luohu Tennis Centre,6
+sr:complex:62847,Tennis Sanremo,6
+sr:complex:60384,Rakiura Resort,6
+sr:complex:33448,ŠRC MARINA PORTOROŽ,6
+sr:complex:60386,Jan Group Arena,6
+sr:complex:33322,Wiener Stadthalle,6
+sr:complex:33302,Family Circle Tennis Center,6
+sr:complex:85822,French Touch Academy,6
+sr:complex:85154,Billingsley Tennis Center,6
+sr:complex:35688,Karnataka State Lawn Tennis Association,6
+sr:complex:88036,Nielsen Tennis Stadium,6
+sr:complex:77391,Tucuman Lawn Tennis Club,6
+sr:complex:89790,McLeod Tennis Center,6
+sr:complex:19737,"Club Sonoma, Estadio Gnp Seguros",5
+sr:complex:76887,Kicukiro Ecology Tennis Club,5
+sr:complex:78489,Baza Sportiva Olimpia,5
+sr:complex:80737,Jiujiang International Tennis Center,5
+sr:complex:88972,The Liguanea Club,5
+sr:complex:89186,Eintracht Frankfurt Tennis,5
+sr:complex:75070,Hacienda Chicureo,5
+sr:complex:84665,Club Campestre Queretaro,5
+sr:complex:85186,Top Run,5
+sr:complex:85942,Stadion Sports Center,5
+sr:complex:61555,New Country Tennis Academy,5
+sr:complex:63311,Danubis Tenniscenter Mauthausen,5
+sr:complex:63527,Circolo Tennis Francavilla al Mare Sporting Club,5
+sr:complex:63907,Tenisovy Klub Prostejov,5
+sr:complex:34336,Emirates Arena,5
+sr:complex:60388,Lyttos Sportscenter,5
+sr:complex:60392,Enka Spor Kulubu,5
+sr:complex:33428,Farum Arena,5
+sr:complex:60420,Club Tungurahua,5
+sr:complex:60538,Tennis Club Pamira,5
+sr:complex:60198,Tennis Club Tulln,5
+sr:complex:60272,Ted Sports Club,5
+sr:complex:64573,Tennis Club de Contrexeville,5
+sr:complex:64751,Rome Tennis Center,5
+sr:complex:6484,Arena Montpellier,5
+sr:complex:81995,Georgia Gwinnett,5
+sr:complex:82243,Club Tenis Ciutadella,5
+sr:complex:82313,Carvoeiro Clube de Tenis,5
+sr:complex:70663,Tenis Centar Firule,5
+sr:complex:72061,Cranbrook Kingswood Tennis Complex,5
+sr:complex:33206,The Drive,5
+sr:complex:33230,CK Sportcenter Kockelscheuer,5
+sr:complex:69183,Estadio Espanol Chiguayante,5
+sr:complex:59730,Centro Tennis Cassa di Risparmio,5
+sr:complex:59890,Jacobs Pavilion at Nautica,5
+sr:complex:58380,Tenis Centar Maksimir,5
+sr:complex:33480,Darling Tennis Center,5
+sr:complex:82343,Le Central Tennis Club,5
+sr:complex:82629,"Tennis club ""Favourite""",5
+sr:complex:69779,Rome Tennis Center at Berry College,5
+sr:complex:80963,All In Country Club Decines,5
+sr:complex:81635,LSU,5
+sr:complex:81745,Clube Tenis Portimao,5
+sr:complex:83007,Tennis Club Jug,5
+sr:complex:21910,Roy Emerson Arena,5
+sr:complex:2375,Complexo de Tenis do Jamor,5
+sr:complex:59348,LTP Tennis Mount Pleasant,5
+sr:complex:51805,Alex Metreveli Tennis Club,5
+sr:complex:52559,National Tennis Centre,5
+sr:complex:83318,TG Nord Dusseldorf e.V.,5
+sr:complex:83440,TC Rot Weiss Hagen,5
+sr:complex:58972,Tennis Club Perugia,5
+sr:complex:83490,TENNISGESELLSCHAFT ROT-WEISS Monchengladbach,5
+sr:complex:83512,TC Blau-Gelb Bonn-Beuel,5
+sr:complex:47306,Sportpark Ismaning,5
+sr:complex:33340,Kungliga Tennishallen,5
+sr:complex:33344,The Queen's Club,5
+sr:complex:63943,Tennis Club Gaiba - Gaibledon,5
+sr:complex:64051,Tenis Club Argentino,5
+sr:complex:65603,Nacionalni Trening Centar Teniskog,5
+sr:complex:66951,Tennis Club Ortisei,5
+sr:complex:39379,Tennis Club Dinamo,5
+sr:complex:73795,Tivoli Tennis Center,5
+sr:complex:73817,Mosrir Courts,5
+sr:complex:38451,Palais des Sports de Pau,5
+sr:complex:38631,The Phoenix Country Club,5
+sr:complex:44130,Les Arenes de Metz,5
+sr:complex:83983,Complexo Municipal de Ténis de Caldas da Rainha,5
+sr:complex:39505,Delmar International School,5
+sr:complex:36787,Cantegril Country Club,5
+sr:complex:38045,Parc des Expositions Quimper Cornouaille,5
+sr:complex:38191,T Bar M Racquet Club,5
+sr:complex:38195,SDAT Tennis Stadium,5
+sr:complex:38285,Complexe Sportif Chantereyne,5
+sr:complex:38882,Ferrero Tennis Academy,5
+sr:complex:67275,Olme Sport,5
+sr:complex:64871,Pearson Automotive Tennis Club,5
+sr:complex:88548,MAX TENIS CLUB,5
+sr:complex:9725,Arena Armeets Sofia,5
+sr:complex:85944,Pakistan Tennis Federation,4
+sr:complex:84475,Yinzhou International Tennis Centre,4
+sr:complex:35690,"Racket Club, Argentina",4
+sr:complex:75062,Good To Great Tennis Academy,4
+sr:complex:89730,TCU Bartzen Varsity Courts,4
+sr:complex:88974,Tennis-Club De Valere,4
+sr:complex:10063,Kindarena,4
+sr:complex:86476,University of Stirling,4
+sr:complex:66787,Hamburger Tennis Verband e.V,4
+sr:complex:65985,Ohio State University,4
+sr:complex:64369,Inacua Malaga,4
+sr:complex:65601,TK Spoje Praha,4
+sr:complex:81717,Bloomington,4
+sr:complex:81249,Las Hadas Golf & Country Club,4
+sr:complex:69789,Circolo Tennis Rovereto,4
+sr:complex:6322,Castello Dusseldorf,4
+sr:complex:82223,Complejo Deportivo San Carlos De Apoquindo,4
+sr:complex:82133,Sheraton Buganvilias Resort and Convention Center,4
+sr:complex:82109,Manzanillo,4
+sr:complex:81747,Atlantis The Palm,4
+sr:complex:64571,Salzburg Tennis Club,4
+sr:complex:63429,Lagardere Paris Racing Club,4
+sr:complex:61339,Greater Midland Tennis Center,4
+sr:complex:61333,PalaNorda,4
+sr:complex:34766,Country Club de Bogota,4
+sr:complex:33530,Paris La Defense Arena,4
+sr:complex:33486,Club Naval de Campo las Salinas,4
+sr:complex:62409,Tennis Club Roseto,4
+sr:complex:60350,Le Liberte,4
+sr:complex:60190,Park Mladen Stojanovic,4
+sr:complex:60860,Sporting Poseidon,4
+sr:complex:33208,Atlantic Station,4
+sr:complex:71923,Salle Omnisport de Rades,4
+sr:complex:82687,Atkins Tennis Center Indoor,4
+sr:complex:82469,Club Tennis Vic,4
+sr:complex:82467,Tcja Saint-Malo,4
+sr:complex:82356,Dan Maskell Tennis Centre,4
+sr:complex:33472,Romai Tennis Academy,4
+sr:complex:33460,I. Czech Lawn Tennis Club Praha,4
+sr:complex:60188,Tennis Club Ruppurr 1929 e. V.,4
+sr:complex:59212,Cabo Sports Complex,4
+sr:complex:23576,Brest Arena,4
+sr:complex:32812,Singapore Indoor Stadium,4
+sr:complex:28926,Royal Arena,4
+sr:complex:53263,Henan Provincial Sports Centre Stadium,4
+sr:complex:52527,COMUNIDAD VALENCIANA,4
+sr:complex:50973,Tennis Club Cagliari,4
+sr:complex:74962,Arena Sofia,4
+sr:complex:74193,Arena Co'Met,4
+sr:complex:74007,Sportaktivpark Bad Waltersdorf,4
+sr:complex:40788,Francesco Guzzini Recanati Tennis Club,4
+sr:complex:39868,Tenis Club Parma,4
+sr:complex:35644,Carrasco Lawn Tennis Club,4
+sr:complex:38732,Tennis Club Lillois Lille Metropole,4
+sr:complex:38720,Parc De La TeTe D'or,4
+sr:complex:38684,Club Los Lagartos,4
+sr:complex:35142,Lotto Arena,4
+sr:complex:83971,Shimizu Zenzo Memorial Tennis,4
+sr:complex:38990,Murcia Tennis Club 1919,4
+sr:complex:38884,Mouratoglou Tennis Academy,4
+sr:complex:38277,Club Campestre Sede Llanogrande,4
+sr:complex:38047,Cleveland Racquet Club,4
+sr:complex:79665,Montreux Tennis Club,4
+sr:complex:79281,Tennis Club Izida,4
+sr:complex:79097,Bonn Tennis and Hockey Club,4
+sr:complex:77883,Kachreti Golf Resort,4
+sr:complex:76151,Cricket Club of India,4
+sr:complex:75607,Bezirksstützpunkt Biberach,4
+sr:complex:15371,Palasport,4
+sr:complex:1495,Sibur Arena,4
+sr:complex:11769,Estadio German Becker,4
+sr:complex:17945,Rotterdam Ahoy,4
+sr:complex:16612,Porsche-Arena,3
+sr:complex:17869,Rizal Memorial Stadium,3
+sr:complex:86592,Itamirim Clube de Campo,3
+sr:complex:86562,Chewning Tennis Center,3
+sr:complex:88968,Cancun Country Sun & Golf Country Club,3
+sr:complex:87022,Fujairah Tennis & Country Club,3
+sr:complex:87066,Teniski Klub Murska Sobota,3
+sr:complex:89274,Tenis Center Tivoli,3
+sr:complex:88662,Cranbrook Schools,3
+sr:complex:79853,Tennis Club Lokomotiv,3
+sr:complex:80583,Huether Family Match Pointe,3
+sr:complex:76885,Delhi Lawn Tennis Association,3
+sr:complex:77217,Emilio Sanchez Academy,3
+sr:complex:76037,Jockey Club de Rosario,3
+sr:complex:75192,Arena BRB,3
+sr:complex:89842,Mizzou Tennis Club,3
+sr:complex:86098,Quito Tenis & Golf Club,3
+sr:complex:85456,The Atlantis Tennis Academy,3
+sr:complex:85476,Rohan Bopanna Tennis Academy,3
+sr:complex:85030,Austin Tennis Academy,3
+sr:complex:84663,Super9 Tennis Park,3
+sr:complex:78831,Victoria Park Tennis Stadium,3
+sr:complex:77517,Club Tennis Lleida,3
+sr:complex:81651,Robson Tennis Center,3
+sr:complex:66953,Centro Libanes Mexicano de Tampico,3
+sr:complex:65983,National Tennis Centre,3
+sr:complex:81681,Tennis Courts of the SW University Neofit Rilski,3
+sr:complex:71287,Tennis Club Rot Weiss Troisdorf E. V.,3
+sr:complex:71961,Club La Meridiana,3
+sr:complex:70661,Club Campestre,3
+sr:complex:67621,Tennis Interieur Rene Verrier,3
+sr:complex:33298,Acapulco Princess Mundo Imperial,3
+sr:complex:33388,Union Sportive des Cheminots du Maroc,3
+sr:complex:61289,Courmayeur Sport Center,3
+sr:complex:59204,Arka Tennis Club,3
+sr:complex:82759,TC Blau-Gelb Bad Rappenau,3
+sr:complex:82865,Tenis Centar Makarska Lukas Sport,3
+sr:complex:33478,Tokyo Metropolitan Gymnasium,3
+sr:complex:33468,LTTC Rot-Weiss,3
+sr:complex:59464,The Thoreau Club,3
+sr:complex:63245,SC Ostrava,3
+sr:complex:82301,Villa Reale Tennis Monza,3
+sr:complex:82197,Tennis Club Porto Rose,3
+sr:complex:82065,Raquet Village,3
+sr:complex:65099,Circolo Tennis Maggioni,3
+sr:complex:68141,Conde Jackson Tennis Club Maspalomas,3
+sr:complex:85658,S Tennis Academy Somabay,3
+sr:complex:35648,Palais des sports de Beaublanc,3
+sr:complex:39093,Laurel Oak Country Club,3
+sr:complex:39507,Tennis Club du Stade-Lausanne,3
+sr:complex:38315,Hotel Racquet Cuernavaca,3
+sr:complex:36573,EPG Arena,3
+sr:complex:83981,Associazione Tennis Tolentino,3
+sr:complex:83877,Parque Villa Lobos,3
+sr:complex:83719,Nautica Entertainment Complex,3
+sr:complex:87130,Leftwich Tennis Centre,3
+sr:complex:38193,SYMA Sports and Conference Centre,3
+sr:complex:84477,TechSet Academy,3
+sr:complex:36495,Domain Tennis Centre,3
+sr:complex:88070,Ntc Kosice,3
+sr:complex:88068,Irene Country Club,3
+sr:complex:88066,National Tennis Center Moldova,3
+sr:complex:48857,Complexo Municipal de Tenis da Maia,3
+sr:complex:52665,TOP SEED TENNIS CLUB,3
+sr:complex:53979,TC Bad Homburg,3
+sr:complex:55029,Forte Village Resort,3
+sr:complex:33156,IMG Academy,3
+sr:complex:83264,Circolo Antico Tiro a Volo,3
+sr:complex:33186,Palais des Sports de Marseille,3
+sr:complex:47817,House of Sports,3
+sr:complex:47140,Tips Arena Linz,3
+sr:complex:83031,Fukui Sports Park,3
+sr:complex:83220,Wimbledon Tennis and Pickleball Club,3
+sr:complex:51791,Club Internacional de Tenis,3
+sr:complex:51771,Club Deportivo La Asuncion,3
+sr:complex:58572,President Tennis Club,3
+sr:complex:57930,Cordoba Lawn Tennis Club,3
+sr:complex:57188,Club De Campo Bellavista,3
+sr:complex:57152,North-West University Tennis Complex,3
+sr:complex:87406,Tim Korth Tennis Courts,3
+sr:complex:84471,Brussels Expo – Palais 12,2
+sr:complex:39493,Kaya Palazzo Belek,2
+sr:complex:86800,Lsu Tennis Complex,2
+sr:complex:86838,2 Rue du Bonheur,2
+sr:complex:19951,Accor Arena,2
+sr:complex:38187,Sud de France Arena,2
+sr:complex:80193,Almaty Arena,2
+sr:complex:27095,BT Arena,2
+sr:complex:82915,Glenmore Athletic Park,2
+sr:complex:57154,Circolo Tennis I Faggi,2
+sr:complex:57248,OCBC Arena,2
+sr:complex:27697,Ford Center at The Star,2
+sr:complex:82335,Sarasota Sports Club,2
+sr:complex:34586,Lanxess Arena,2
+sr:complex:82551,LDLC Arena,2
+sr:complex:80851,Beograndska Arena,2
+sr:complex:69179,Complexe Sportif du Blocry,2
+sr:complex:33236,Luzhniki Olympic Complex,2
+sr:complex:72523,Nice Lawn Tennis Club,2
+sr:complex:66093,Tel Aviv International Convention Center,2
+sr:complex:75731,Hala Ricany,2
+sr:complex:76089,Design Center Linz,2
+sr:complex:7242,Telekom Center Athens,2
+sr:complex:81751,Kallang Tennis Centre,2
+sr:complex:82033,Spot - Salle Jean Burger,2
+sr:complex:63323,Costa Verde Tenis Clube,2
+sr:complex:33334,Shenzhen Longgang Sports Center,2
+sr:complex:61437,Inalpi Arena,2
+sr:complex:61737,Parque Olimpico do Rio de Janeiro,2
+sr:complex:61425,Le Scarabee,2
+sr:complex:33250,Tashkent Tennis Centreake,2
+sr:complex:1078,Estadio de La Cartuja,2
+sr:complex:35642,Vendéspace,2
+sr:complex:83360,Fiera de Levante,2
+sr:complex:38988,Circolo Tennis Barletta,2
+sr:complex:35212,TC Ismaning,2
+sr:complex:16069,Garanti Koza Arena,1
+sr:complex:18201,The O2,1
+sr:complex:21870,Stadium Goran Ivanisevic in ITC Stella Maris,1
+sr:complex:705,Nacional,1
+sr:complex:74912,Estadio Paradisus Cancun Quintana Roo,1
+sr:complex:74736,Hengqin Tennis Center,1
+sr:complex:77389,Tiriac Stadium,1
+sr:complex:76035,Vitality Slezsko,1
+sr:complex:33198,Qi zhong Forest Sports City Arena,1
+sr:complex:8115,loanDepot park,1
+sr:complex:81109,ANB Arena,1
+sr:complex:61028,Ljubicic Tennis Academy,1
+sr:complex:65215,Baza Sportiva Ciric,1
+sr:complex:33252,China National Tennis Center,1
+sr:complex:63941,Steffi-Graf Stadium,1
+sr:complex:33346,Gerry Weber Stadium,1
+sr:complex:57308,Formula Tennisa Lakhta,1
+sr:complex:57286,Halle Tony Garnier,1
+sr:complex:52537,Sparta Prague Tennis Complex,1
+sr:complex:49803,Kooyong Lawn Tennis Club,1
+sr:complex:47302,Ice Palace Krylatskoye,1
+sr:complex:46552,Circolo del Tennis Firenze 1898,1
+sr:complex:32668,Shenzhen Bay Sports Center,1
+sr:complex:56886,Limak Arcadia Sport Resort,1
+sr:complex:38986,National Taiwan University Sports Center,1
+sr:complex:35048,Sanchez-Casal Tennis Academy,1
+sr:complex:35902,Palazzetto dello Sport,1

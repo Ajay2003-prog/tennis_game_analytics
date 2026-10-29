@@ -1,0 +1,78 @@
+country_name,country_code,venue_count
+USA,USA,702
+Italy,ITA,302
+France,FRA,278
+China,CHN,243
+Spain,ESP,217
+Germany,DEU,182
+Mexico,MEX,146
+Australia,AUS,144
+England,ENG,117
+Brazil,BRA,113
+Japan,JPN,98
+Portugal,PRT,96
+Argentina,ARG,89
+Czechia,CZE,78
+Canada,CAN,76
+Croatia,HRV,72
+Chile,CHL,65
+Turkiye,TUR,60
+Switzerland,CHE,59
+Ecuador,ECU,58
+Colombia,COL,56
+Romania,ROU,49
+Austria,AUT,45
+Kazakhstan,KAZ,42
+Republic of Korea,KOR,38
+Peru,PER,35
+Poland,POL,35
+Netherlands,NLD,32
+Chinese Taipei,TPE,30
+India,IND,28
+Bulgaria,BGR,27
+Serbia,SRB,26
+United Arab Emirates,ARE,25
+Slovakia,SVK,24
+Hungary,HUN,22
+Slovenia,SVN,22
+Russia,RUS,22
+Uzbekistan,UZB,21
+Tunisia,TUN,21
+Dominican Republic,DOM,21
+"Hong Kong, China",HKG,19
+Thailand,THA,19
+Bolivia,BOL,18
+New Zealand,NZL,16
+Sweden,SWE,15
+Finland,FIN,14
+Vietnam,VNM,14
+Egypt,EGY,13
+Greece,GRC,12
+Lithuania,LTU,12
+Indonesia,IDN,12
+Qatar,QAT,12
+Moldova,MDA,11
+Paraguay,PRY,9
+Scotland,SCO,9
+Bosnia & Herzegovina,BIH,9
+Denmark,DNK,9
+Uruguay,URY,9
+Monaco,MCO,9
+Georgia,GEO,9
+Morocco,MAR,9
+Bahrain,BHR,8
+Belgium,BEL,8
+Ukraine,UKR,8
+Singapore,SGP,8
+New Caledonia,NCL,6
+South Africa,ZAF,6
+Jamaica,JAM,5
+Cote d’Ivoire,CIV,5
+San Marino,SMR,5
+Luxembourg,LUX,5
+Rwanda,RWA,5
+North Macedonia,MKD,5
+Pakistan,PAK,4
+Philippines,PHL,3
+Israel,ISR,2
+Saudi Arabia,SAU,1

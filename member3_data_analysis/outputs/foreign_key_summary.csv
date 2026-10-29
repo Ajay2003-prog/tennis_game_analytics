@@ -1,0 +1,4 @@
+relationship_column,missing_values,non_null_rows,unique_values,repeated_foreign_key_rows,interpretation
+competitions.parent_id,623,6094,3024,3070,Repeated values are expected for a foreign key.
+competitions.category_id,0,6717,18,6699,Repeated values are expected for a foreign key.
+venues.complex_id,0,4159,623,3536,Repeated values are expected for a foreign key.
