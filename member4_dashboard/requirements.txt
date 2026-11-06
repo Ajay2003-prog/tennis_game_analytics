@@ -1,0 +1,7 @@
+streamlit==1.58.0
+pandas
+requests
+sqlalchemy
+pymysql
+python-dotenv
+plotly
