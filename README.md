@@ -74,7 +74,7 @@ This project was collaboratively developed by four team members.
 | Member 1 | Chinnam Ajay Sai Phaneendra Reddy |
 | Member 2 | Shubham Samarpit |
 | Member 3 | Jithendra |
-| Member 4 | Sahil |
+| Member 4 | Sahil Khan |
 
 ### Team Responsibilities
 
